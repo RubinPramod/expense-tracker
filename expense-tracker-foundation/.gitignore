@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+dist-check/
+web-build/
+coverage/
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example
+.DS_Store

@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Dependencies and build output
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Test and tool output
+coverage/
+*.log
